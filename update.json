@@ -1,0 +1,15 @@
+{
+  "addons": {
+    "{c3c00c2a-d281-4553-8f71-9a358a7865df}": {
+      "updates": [        
+        { "version": "1.0.2f",
+          "update_link": "https://raw.githubusercontent.com/suryhp/BaiduExporter/master/BaiduExporter102f.xpi",
+          "update_hash": "sha256:202D3C3E6C478727493AD854867FFF46879BF93C2B24DD0055790DF63BFB2062" },
+        { "version": "1.0.2g",
+          "update_link": "https://raw.githubusercontent.com/suryhp/BaiduExporter/master/BaiduExporter102g.xpi",
+		  "update_hash": "sha256:202D3C3E6C478727493AD854867FFF46879BF93C2B24DD0055790DF63BFB2062" },
+          }
+      ]
+    }
+  }
+}
